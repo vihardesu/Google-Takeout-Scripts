@@ -4,17 +4,17 @@
 ###### Your data may include: Chrome Browsing History, Location History, Google Search History, Youtube History, Clicked Advertisements, Searched Images on Google Images, Searched Locations & Directions on Google Maps
 
 ##### Usage
-- Your folder should look like this...
+###### Your folder should look like this...
 
- - YOUR_FOLDER_NAME
+- YOUR_FOLDER_NAME
    - footprinting.ipynb
 
- place your Google Takeout Zip File in the same folder
- run footprinting.ipynb with jupyter notebook
+###### Place your Google Takeout Zip File in the same folder
+###### Run footprinting.ipynb with jupyter notebook
 
- Your folder should now look like this:
+###### Your folder should now look like this:
 
- - YOUR_FOLDER_NAME
+- YOUR_FOLDER_NAME
     - footprinting.ipynb
     - YOUR takeout.zip file from Google
     - Takeout
