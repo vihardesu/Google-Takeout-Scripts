@@ -1,4 +1,4 @@
-# Human-Data-Point
+# Google-Takeout-Scripts
 ###### Overview: This is a jupyter notebook that creates CSV files of your personal data collected by Google. You can access your raw personal data in a zip file from Google at https://takeout.google.com/settings/takeout?pli=1
 
 ###### Your data may include: Chrome Browsing History, Location History, Google Search History, Youtube History, Clicked Advertisements, Searched Images on Google Images, Searched Locations & Directions on Google Maps
